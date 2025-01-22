@@ -9,6 +9,8 @@
 #define IDC_SECOND									105
 #define IDC_MILLISECOND							106
 #define IDC_COORDINATE_SET					107
+#define IDC_KEY_SET									108
+#define IDD_KEY_INPUT								200
 #define IDD_TIME_BULK_CHANGE					201
 #define IDD_COORDINATE_BULK_CHANGE		202
 #define IDI_ICON1									1001
